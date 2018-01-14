@@ -92,7 +92,7 @@
 				<version>0.4.11</version>
 				<configuration>
 					<imageName>aindriub/${project.artifactId}</imageName>
-					<dockerDirectory>${project.basedir}\docker</dockerDirectory>
+					<dockerDirectory>${project.basedir}/docker</dockerDirectory>
 					<resources>
 						<resource>
 							<targetPath>/</targetPath>
